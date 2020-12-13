@@ -10,6 +10,8 @@ namespace matriz_exame
 
             Console.WriteLine("A execução do programa final deverá seguir, na sequência, os 3 passos abaixo. Explicando pro usuário \n" +
                 "o que vai acontecer, mostrando o que é proposto, e aguardando um confirmação do usuário pra seguir ao próximo passo: \n");
+
+            Console.WriteLine("\n>> Desenvolvido por Leandro Rocha de Brito <<\n");
             Console.WriteLine("----------------------------------------------------------------------------------------------------------------");
 
             Console.WriteLine("Crie um programa que construa uma matriz 5 x 5. Cada posição dessa matriz será preenchida com um número\n" +

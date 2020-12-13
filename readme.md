@@ -2,6 +2,8 @@
 
 Exercícios da disciplina de Algotmos avançados no IFRO (Instituto Federal de Rondônia)
 
+**>> Desenvolvido por Leandro Rocha de Brito <<**
+
 
 **A execução do programa final deverá seguir, na sequência, os 3 passos abaixo. Explicando pro usuário o que vai acontecer, mostrando o que é proposto, e aguardando um confirmação do usuário pra seguir ao próximo passo:**
 
