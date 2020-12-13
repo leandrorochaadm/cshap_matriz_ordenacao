@@ -1,6 +1,6 @@
 # Matrizes em Cshap
 
-Exercícios da disciplina de Algotimos avançados no IFRO (Instituto Tecnológico de Rondônia)
+Exercícios da disciplina de Algotmos avançados no IFRO (Instituto Federal de Rondônia)
 
 
 **A execução do programa final deverá seguir, na sequência, os 3 passos abaixo. Explicando pro usuário o que vai acontecer, mostrando o que é proposto, e aguardando um confirmação do usuário pra seguir ao próximo passo:**
